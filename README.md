@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Tanvi! 👋
 
-<!--
-**TanviBhosle29/TanviBhosle29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | Machine Learning | AI Engineer
+I am a Data Scientist with 4+ years of experience in statistical modelling, retail analytics, Machine learning and AI driven solutions
+I enjoy solving business problems using data, building predictive models, and developing intelligent automation solutions.
 
-Here are some ideas to get you started:
+## Technical Skills
+- **Programming Languages:** Python, R, SQL
+- **Skills and Area of work:** Data Science, Machine Learning, Deep Learning, Power BI, MS Excel 
+- **Soft Skills:** Communication, Problem Solving, Leadership, Adaptability, Teamwork, Decision making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Employees’ job satisfaction in private sectors
+- Object detection and color identification in images
+- Sentimental Analysis
+- Dashboard on Snap Bizz vendor data (India)
+
+
+## Currently Learning
+- AWS
+- Microsoft Azure
+- Cloud Computing
+- LLM
+- RAG
+- Prompt Engineering
+
+## Connect with Me
+- LinkedIN: https://www.linkedin.com/in/tanvi-bhosle-2b5ab5205/
+- Email: iamtanvibhosle2907@gmail.com
+
