@@ -1,6 +1,6 @@
 ## Hi, I'm Tanvi! 👋
 
-### Data Scientist | Machine Learning | AI Engineer
+### Data Scientist | Machine Learning | AI solutions
 I am a Data Scientist with 4+ years of experience in statistical modelling, retail analytics, Machine learning and AI driven solutions
 I enjoy solving business problems using data, building predictive models, and developing intelligent automation solutions.
 
