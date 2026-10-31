@@ -10,11 +10,15 @@ I enjoy solving business problems using data, building predictive models, and de
 - **Soft Skills:** Communication, Problem Solving, Leadership, Adaptability, Teamwork, Decision making
 
 ## Featured Projects
-- Employees’ job satisfaction in private sectors
-- Object detection and color identification in images
+- Object detection or optical character recognition
+- Color identification in images
 - Sentimental Analysis
+- Employees’ job satisfaction in private sectors
 - Dashboard on Snap Bizz vendor data (India)
-
+- Image to pencil sketch
+- Exploratory Data Analysis- SPORTS
+- Prediction using Supervised Machine Learning
+- Prediction using Decision Tree algorithm
 
 ## Currently Learning
 - AWS
